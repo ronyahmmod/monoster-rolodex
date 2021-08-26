@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/monoster-rolodex/static/css/main.7b74867b.chunk.css",
-    "main.js": "/monoster-rolodex/static/js/main.cc44dcc9.chunk.js",
-    "main.js.map": "/monoster-rolodex/static/js/main.cc44dcc9.chunk.js.map",
-    "runtime-main.js": "/monoster-rolodex/static/js/runtime-main.b9d6e633.js",
-    "runtime-main.js.map": "/monoster-rolodex/static/js/runtime-main.b9d6e633.js.map",
-    "static/js/2.7492bbf0.chunk.js": "/monoster-rolodex/static/js/2.7492bbf0.chunk.js",
-    "static/js/2.7492bbf0.chunk.js.map": "/monoster-rolodex/static/js/2.7492bbf0.chunk.js.map",
-    "static/js/3.41aa763b.chunk.js": "/monoster-rolodex/static/js/3.41aa763b.chunk.js",
-    "static/js/3.41aa763b.chunk.js.map": "/monoster-rolodex/static/js/3.41aa763b.chunk.js.map",
-    "index.html": "/monoster-rolodex/index.html",
-    "static/css/main.7b74867b.chunk.css.map": "/monoster-rolodex/static/css/main.7b74867b.chunk.css.map",
-    "static/js/2.7492bbf0.chunk.js.LICENSE.txt": "/monoster-rolodex/static/js/2.7492bbf0.chunk.js.LICENSE.txt",
-    "static/media/App.scss": "/monoster-rolodex/static/media/hill-1.9398c0a0.jpg"
+    "main.css": "/monosters-rolodex/static/css/main.65a7db6f.chunk.css",
+    "main.js": "/monosters-rolodex/static/js/main.cc44dcc9.chunk.js",
+    "main.js.map": "/monosters-rolodex/static/js/main.cc44dcc9.chunk.js.map",
+    "runtime-main.js": "/monosters-rolodex/static/js/runtime-main.dff8a8f2.js",
+    "runtime-main.js.map": "/monosters-rolodex/static/js/runtime-main.dff8a8f2.js.map",
+    "static/js/2.7492bbf0.chunk.js": "/monosters-rolodex/static/js/2.7492bbf0.chunk.js",
+    "static/js/2.7492bbf0.chunk.js.map": "/monosters-rolodex/static/js/2.7492bbf0.chunk.js.map",
+    "static/js/3.41aa763b.chunk.js": "/monosters-rolodex/static/js/3.41aa763b.chunk.js",
+    "static/js/3.41aa763b.chunk.js.map": "/monosters-rolodex/static/js/3.41aa763b.chunk.js.map",
+    "index.html": "/monosters-rolodex/index.html",
+    "static/css/main.65a7db6f.chunk.css.map": "/monosters-rolodex/static/css/main.65a7db6f.chunk.css.map",
+    "static/js/2.7492bbf0.chunk.js.LICENSE.txt": "/monosters-rolodex/static/js/2.7492bbf0.chunk.js.LICENSE.txt",
+    "static/media/App.scss": "/monosters-rolodex/static/media/hill-1.9398c0a0.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.b9d6e633.js",
+    "static/js/runtime-main.dff8a8f2.js",
     "static/js/2.7492bbf0.chunk.js",
-    "static/css/main.7b74867b.chunk.css",
+    "static/css/main.65a7db6f.chunk.css",
     "static/js/main.cc44dcc9.chunk.js"
   ]
 }
