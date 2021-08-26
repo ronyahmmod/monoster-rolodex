@@ -1,0 +1,7 @@
+@import "../../scss/main.scss";
+.card-list {
+  padding: 4rem 3rem;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  grid-gap: $gutter-horizontal;
+}

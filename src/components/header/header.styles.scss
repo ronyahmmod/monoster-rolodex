@@ -1,0 +1,35 @@
+@import "../../scss/main.scss";
+
+.header {
+  margin: 0 auto;
+  text-align: center;
+
+  &__title {
+    color: $color-white;
+    font-size: 6rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.6rem;
+  }
+
+  &__search-box {
+    margin-top: 2rem;
+
+    input {
+      padding: 2rem;
+      font-size: 1.6rem;
+      outline: none;
+      border: none;
+      background-color: $color-white;
+      width: 40%;
+      border-radius: 100px;
+      color: $color-grey-dark;
+      transition: all 0.4s;
+
+      &:focus {
+        outline: none;
+        width: 65%;
+      }
+    }
+  }
+}
